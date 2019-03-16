@@ -9,3 +9,9 @@ vagrant plugin install vagrant-vbguest
 ```bash
 vagrant up
 ```
+## Action
+```bash
+cd /home/vagrant/selenium-take-screenshot-app
+npm install
+npm tst
+```
