@@ -5,3 +5,7 @@ Set up vagrant environment for running selenium-take-screenshot-app
 ```bash
 vagrant plugin install vagrant-vbguest 
 ```
+## Run
+```bash
+vagrant up
+```
